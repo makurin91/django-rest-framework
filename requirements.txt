@@ -1,0 +1,7 @@
+Django==2.0.1
+python-dotenv
+djangorestframework==3.8.2
+coreapi
+coreapi-cli
+psycopg2-binary==2.8.6
+pygments
